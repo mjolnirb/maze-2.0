@@ -1,0 +1,254 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1702028879194242, "dur":7792, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702028879202042, "dur":68, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702028879202137, "dur":363, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702028879202630, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1702028879202761, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1702028879202521, "dur":2648, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702028879205171, "dur":186356, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702028879391529, "dur":372, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702028879391901, "dur":147, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702028879392246, "dur":1565, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1702028879203016, "dur":2222, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702028879205243, "dur":1025, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702028879206269, "dur":1916, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702028879208205, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702028879213357, "dur":1129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1702028879214488, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1702028879214587, "dur":2165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1702028879217672, "dur":8538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879226350, "dur":6154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879232663, "dur":5824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879238547, "dur":4733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879243325, "dur":4398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879247856, "dur":5696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879253616, "dur":4316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879258082, "dur":4058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879262200, "dur":4302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879266553, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879266551, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879266716, "dur":55016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702028879321775, "dur":69762, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702028879202811, "dur":2382, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702028879205198, "dur":2984, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702028879211451, "dur":718, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1702028879212180, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1702028879212267, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1702028879212527, "dur":164, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\micke\\Simple Maze Game\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702028879212694, "dur":456, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\micke\\Simple Maze Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702028879213154, "dur":459, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\micke\\Simple Maze Game\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702028879213616, "dur":395, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\micke\\Simple Maze Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702028879214013, "dur":540, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\micke\\Simple Maze Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702028879214555, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\micke\\Simple Maze Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702028879214632, "dur":280, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\micke\\Simple Maze Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702028879214957, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerd1ae76e7-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1702028879212177, "dur":2952, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1702028879215829, "dur":171404, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1702028879390600, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1702028879390599, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1702028879390686, "dur":793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1702028879202905, "dur":2304, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702028879205218, "dur":983, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702028879206202, "dur":2009, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702028879208213, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1702028879211626, "dur":1934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1702028879213670, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1702028879214127, "dur":2196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1702028879217421, "dur":14219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702028879231747, "dur":5815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702028879237774, "dur":5120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702028879242977, "dur":4494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702028879247584, "dur":6055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702028879253703, "dur":4377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702028879258168, "dur":4017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702028879262259, "dur":4137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702028879266470, "dur":8189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702028879280696, "dur":135, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702028879275672, "dur":5210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1702028879281049, "dur":110496, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702028879202982, "dur":2244, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702028879205232, "dur":1072, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702028879206304, "dur":1889, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702028879208195, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1702028879213717, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1702028879215505, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1702028879216157, "dur":1051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1702028879217789, "dur":9046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702028879226989, "dur":133, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702028879227137, "dur":7335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702028879234553, "dur":5128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702028879239749, "dur":4482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702028879244300, "dur":4778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702028879249164, "dur":5311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702028879254548, "dur":4146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702028879258758, "dur":4669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702028879263496, "dur":4988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702028879268670, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1702028879268665, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1702028879268767, "dur":8646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1702028879277778, "dur":113779, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1702028879203166, "dur":2096, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1702028879205268, "dur":999, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1702028879206268, "dur":1937, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1702028879208217, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1702028879208207, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1702028879210282, "dur":2295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1702028879212635, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1702028879213350, "dur":3258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1702028879217707, "dur":7255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702028879225300, "dur":5525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702028879230976, "dur":5750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702028879236877, "dur":4169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702028879241116, "dur":4605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702028879245798, "dur":6559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702028879252433, "dur":4073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702028879256576, "dur":4419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702028879261054, "dur":4315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702028879265417, "dur":8633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702028879282311, "dur":174, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1702028879274137, "dur":8379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/level0.resS" }}
+,{ "pid":12345, "tid":5, "ts":1702028879282571, "dur":108960, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1702028879203067, "dur":2182, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1702028879205254, "dur":962, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1702028879206216, "dur":2033, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1702028879208251, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1702028879211929, "dur":1334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1702028879213398, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1702028879214279, "dur":1473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1702028879215799, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702028879215797, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702028879216106, "dur":19230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702028879235507, "dur":4763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702028879240350, "dur":4417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702028879244823, "dur":4714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702028879249609, "dur":4957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702028879254625, "dur":4252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702028879258924, "dur":4371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702028879263402, "dur":4504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702028879268003, "dur":6189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":6, "ts":1702028879285364, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1702028879274251, "dur":11201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1702028879285522, "dur":106026, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1702028879203230, "dur":2056, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1702028879205292, "dur":886, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1702028879206178, "dur":2010, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1702028879208207, "dur":129, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1702028879208195, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1702028879209297, "dur":4690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":7, "ts":1702028879214033, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1702028879214030, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1702028879214198, "dur":2359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1702028879217813, "dur":13878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702028879231936, "dur":5687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702028879237723, "dur":4552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702028879242336, "dur":4463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702028879246875, "dur":5055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702028879252006, "dur":3995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702028879256057, "dur":4060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702028879260170, "dur":4443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702028879264685, "dur":6124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702028879270915, "dur":11737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1702028879282695, "dur":108826, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1702028879203315, "dur":1985, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1702028879205307, "dur":921, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1702028879206228, "dur":1989, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1702028879208218, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1702028879210503, "dur":2199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1702028879212824, "dur":480, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1702028879213316, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1702028879213690, "dur":2949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1702028879217682, "dur":6113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702028879231733, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1702028879224009, "dur":7932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702028879232090, "dur":5695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702028879237850, "dur":5148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702028879243055, "dur":3913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702028879247045, "dur":5105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702028879252238, "dur":4646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702028879256951, "dur":4574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702028879261642, "dur":5725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702028879267457, "dur":73385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":8, "ts":1702028879340868, "dur":50673, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1702028879203366, "dur":1966, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1702028879205341, "dur":427, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1702028879205768, "dur":2495, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1702028879208277, "dur":174, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":9, "ts":1702028879208265, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1702028879213286, "dur":3103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1702028879228897, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1702028879217650, "dur":11375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702028879229166, "dur":5886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702028879235162, "dur":4686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702028879239923, "dur":4314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702028879244302, "dur":5030, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702028879249420, "dur":6588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702028879256067, "dur":4297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702028879260428, "dur":4369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702028879264839, "dur":6181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702028879282352, "dur":339, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1702028879271120, "dur":11605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/resources.assets" }}
+,{ "pid":12345, "tid":9, "ts":1702028879282898, "dur":108626, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1702028879203419, "dur":1950, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1702028879205369, "dur":2826, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1702028879208198, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1702028879211999, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1702028879213592, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":10, "ts":1702028879213590, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1702028879214151, "dur":1327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1702028879215529, "dur":122, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702028879215527, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702028879216082, "dur":1621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702028879229646, "dur":564, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1702028879218161, "dur":12094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702028879230521, "dur":7605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702028879238191, "dur":5120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702028879243385, "dur":4525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702028879247973, "dur":5187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702028879253342, "dur":4903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702028879258295, "dur":4441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702028879262804, "dur":4567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702028879267459, "dur":10209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1702028879277739, "dur":113796, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1702028879203579, "dur":1816, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1702028879205395, "dur":2795, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1702028879208239, "dur":169, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1702028879208215, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1702028879214417, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1702028879216036, "dur":1504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game.exe" }}
+,{ "pid":12345, "tid":11, "ts":1702028879217949, "dur":10116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702028879228215, "dur":8918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702028879237313, "dur":4723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702028879242109, "dur":3898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702028879246071, "dur":4987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702028879251135, "dur":4294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702028879255502, "dur":4585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702028879260161, "dur":4143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702028879264372, "dur":5875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702028879270861, "dur":3746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1702028879274709, "dur":19845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1702028879294615, "dur":96925, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1702028879203496, "dur":1887, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1702028879205384, "dur":2829, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1702028879208233, "dur":105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1702028879208214, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1702028879210579, "dur":2187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1702028879212819, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1702028879212818, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1702028879213322, "dur":2830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1702028879216217, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1702028879217188, "dur":8320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1702028879229702, "dur":559, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1702028879225656, "dur":4803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702028879230595, "dur":5059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702028879235733, "dur":4840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702028879240678, "dur":4594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702028879245422, "dur":5384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702028879250940, "dur":4095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702028879255081, "dur":4494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702028879259641, "dur":4158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702028879263870, "dur":5413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702028879269513, "dur":6658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":12, "ts":1702028879276286, "dur":9162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/micke/Desktop/New folder/bhoopesh/Simple Maze Game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":12, "ts":1702028879285504, "dur":106014, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702028879396274, "dur":1116, "ph":"X", "name": "ProfilerWriteOutput" }
+,
